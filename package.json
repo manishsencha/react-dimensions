@@ -1,0 +1,23 @@
+{
+  "name": "@manishsencha/reactwindowdimensions",
+  "version": "1.0.2",
+  "description": "Get the dimensions of the window ",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manishsencha/reactwindowdimensions.git"
+  },
+  "author": "Manish Sencha <https://github.com/manishsencha>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manishsencha/reactwindowdimensions/issues"
+  },
+  "homepage": "https://github.com/manishsencha/reactwindowdimensions#readme",
+  "peerDependencies": {
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
+  }
+}
